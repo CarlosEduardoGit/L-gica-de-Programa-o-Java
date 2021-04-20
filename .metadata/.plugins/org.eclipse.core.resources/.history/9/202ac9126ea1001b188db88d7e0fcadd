@@ -1,0 +1,7 @@
+
+public class SaudacaoDev {
+	
+	public static void main(String[] args) {
+		Olá Devs!;
+	}
+}

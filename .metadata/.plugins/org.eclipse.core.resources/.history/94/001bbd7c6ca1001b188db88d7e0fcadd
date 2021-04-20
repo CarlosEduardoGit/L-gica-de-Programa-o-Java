@@ -1,0 +1,9 @@
+package tes;
+
+public class Saudacao {
+	public static void main(String[] args) {
+		
+		System.out.print("Olá Devs do MultCurso!");
+		
+	}
+}
