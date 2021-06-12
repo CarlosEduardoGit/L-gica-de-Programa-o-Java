@@ -1,0 +1,14 @@
+
+public class TiposPrimitivos {
+	
+	public static void main(String[] args) {
+		
+		// INTEIROS
+
+		byte tipo1 = -128;
+		byte tipo2 = 127;
+		
+		
+		
+	}
+}

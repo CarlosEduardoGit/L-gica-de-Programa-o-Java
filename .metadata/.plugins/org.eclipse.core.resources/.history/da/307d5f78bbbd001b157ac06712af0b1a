@@ -1,0 +1,34 @@
+/**
+ * Este é um app de saudação
+ * 
+ * @author Carlos Eduardo
+ * @version 1.0
+ * @since JDK 1.0
+ *
+ */
+public class SaudacaoDev {
+	
+	/*
+	 
+	 Este é método principal do programa.
+	 
+	 */
+	public static void main(String[] args) {
+		
+		System.out.println("Olá Devs!"); // Mensagem de saudação
+	
+	}
+	
+}
+
+// comentário de uma linha
+
+/*
+   comentário de uma várias linhas
+   comentário de uma várias linhas
+   comentário de uma várias linhas
+*/
+
+/**
+   comentário de documentação
+*/

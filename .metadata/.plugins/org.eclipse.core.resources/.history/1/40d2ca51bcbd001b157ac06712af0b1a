@@ -1,0 +1,23 @@
+
+public class SaudacaoDev {
+	
+	
+	public static void main(String[] args) {
+		
+		System.out.println("Olá Devs!"); 
+	
+	}
+	
+}
+
+// comentário de uma linha
+
+/*
+  comentário de uma várias linhas
+  comentário de uma várias linhas
+  comentário de uma várias linhas
+*/
+
+/**
+  comentário de documentação
+*/

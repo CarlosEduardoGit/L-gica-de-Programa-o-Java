@@ -1,0 +1,18 @@
+
+/**
+ * Esse é uma app de saudação
+ * @author MultCurso
+ * 
+ */
+public class SaudacaoDev {
+	/**
+	 * Este é o método principal
+	 * @param
+	 */
+	public static void main(String[] args) {
+		
+		System.out.println("Olá Devs!");
+		
+	}
+	
+}

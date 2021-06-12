@@ -1,0 +1,39 @@
+
+public class TiposPrimitivos {
+	
+	public static void main(String[] args) {
+		
+		// INTEIROS
+
+		byte tipo1 = -128;
+		byte tipo2 = 127;
+		
+		short tipo3 = -32.768;
+		short tipo4 = 32.767;
+
+		int tipo5 = -2.147.483.648;
+		int tipo6 = 2.147.483.647;
+
+		long tipo7 = -9.223.372.036.854.775.808;
+		long tipo8 = 9.223.372.036.854.775.807;
+
+		// Real
+
+		float tipo9 = 1.40129846432481707e-45;
+		float tipo10 = -1.40129846432481707e-45;
+
+		double tipo11 = -4.94065645841246544e-324;
+		double tipo12 = 4.94065645841246544e-324;
+
+		// CARACTERE
+
+		char tipo13 = \u0000;
+		char tipo14 = \u1111;
+		char tipo13 = \uFFFF;
+
+		char tipo13 = 'A';
+		char tipo13 = 'b';
+		char tipo13 = '8';
+		
+	}
+}
