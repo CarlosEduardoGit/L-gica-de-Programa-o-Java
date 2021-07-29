@@ -1,0 +1,8 @@
+
+public class TESTE {
+	public static void main(String[] args) {
+		System.out.println("Olá Devs!\n Olá Devs");
+		System.out.println("Olá Devs!\r Olá Devs");
+		System.out.println("Olá Devs!\b Olá Devs");
+	}
+}

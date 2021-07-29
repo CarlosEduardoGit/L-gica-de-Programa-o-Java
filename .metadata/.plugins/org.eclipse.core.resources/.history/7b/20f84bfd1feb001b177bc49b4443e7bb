@@ -1,0 +1,11 @@
+
+public class TESTE {
+	public static void main(String[] args) {
+		
+		System.out.println("\t\t\t\tCaracteres Especiais\n");
+		System.out.println("\tÉ um símbolo que produz um efeito próprio, "
+				+ "mas que não possui uma forma visual. \r\nSão usados na formatação de mensagens e dados e representados pela combinação de\r\n"
+				+ "uma \\ (barra invertida) com um caracte extra, formando as sequências de escape\n\n");
+		
+	}
+}

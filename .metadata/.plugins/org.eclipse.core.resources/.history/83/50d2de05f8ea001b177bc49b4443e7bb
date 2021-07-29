@@ -1,0 +1,16 @@
+
+public class TESTE {
+	public static void main(String[] args) {
+		System.out.println("Nome\nSobre Nome");
+		//System.out.println("Olá Devs!\rOlá Devs");
+		//System.out.println("Olá Devs!\bOlá Devs");
+		//System.out.println("Olá Devs!\tOlá Devs");
+		//System.out.println("Olá Devs!\fOlá Devs");
+		//System.out.println("Olá Devs!\'Olá Devs");
+		//System.out.println("Olá Devs!\"Olá Devs");
+		//System.out.println("Olá Devs!\\Olá Devs");
+		//System.out.println("Olá Devs!\u223dOlá Devs");
+		//System.out.println("Olá Devs!\g37Olá Devs");
+		//System.out.println("Olá Devs!\fcaOlá Devs");
+	}
+}

@@ -1,0 +1,15 @@
+
+public class CaracteresEspeciais {
+
+	public static void main(String[] args) {
+		System.out.println("Caracteres Especiais");
+		System.out.println("É um símbolo que produz um efeito próprio, mas que não possui uma forma visual. São usados na formatação de mensagens e dados e representados pela combinação de uma  (barra invertida) com um caracte extra, formando as sequências de escape.");
+		System.out.println("Outros exemplos: *Apóstrofe *Aspas *Segunda Feira");
+
+
+	}
+
+}
+
+
+
